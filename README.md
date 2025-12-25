@@ -7,7 +7,7 @@ If you find this project useful, please cite our work. Your support is greatly a
 
 ## Requirements
 
-Please use Python 3.6, opencv-contrib-python (3.12.0) and Pytorch (>= 2.6.0). Other dependencies should be easily installed through pip or conda.
+Please use Python 3.12, opencv-contrib-python (4.11.0.86) and Pytorch (>= 2.6.0). Other dependencies should be easily installed through pip or conda.
 
 ### Generate training and testing data
 First, download the YFCC100M and SUN3D datasets from [this Google Drive link](https://drive.google.com/drive/folders/1RbBWKy-6QdbKofZGHGhTTRGNlv0rgtVi).

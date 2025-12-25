@@ -1,0 +1,10 @@
+python==3.12.9
+
+h5py==3.13.0
+matplotlib==3.10.1
+numpy==2.3.5
+opencv_contrib_python==4.11.0.86
+six==1.17.0
+tensorboardX==2.6.2.2
+torch==2.6.0
+tqdm==4.67.1
